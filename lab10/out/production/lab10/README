@@ -1,0 +1,33 @@
+Q1.1
+map keeps entries in order by it keeps both keys and values as pairs, so we should explicitly
+tell what do we want.
+
+Q2.1
+the 603
+to 432
+and 376
+of 359
+in 265
+
+
+the 168
+of 75
+and 62
+to 49
+he 45
+
+2.2
+i 519
+i 109
+
+2.3
+alphabetical order
+hashMap will use the insertion order
+
+3.1
+we use interface Predicate to test if entries in Map satisfying the condition(length) we give.
+
+3.2
+cause-indigestion-the 1   in melville.txt
+fortunato-although 1      in poe.txt
+unneccessarily-but 1

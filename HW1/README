@@ -1,0 +1,57 @@
+Name: Yan Liu
+USC NetId:liu156
+CSCI 455 PA1
+Spring 2018
+
+----------------------------------------------
+CERTIFY IT'S YOUR WORK
+
+"I certify that the work submitted for this assignment does not
+violate USC's student conduct code.  In particular, the work is my
+own, not a collaboration, and does not involve code created by other
+people, except for the the resources explicitly mentioned in the CS 455
+Course Syllabus.  And I did not share my solution or parts of it with
+other students in the course."
+
+Initial below to "sign" the above statement:
+Y L
+
+----------------------------------------------
+ACKNOWLEDGE ANY OUTSIDE SOURCES
+
+List here any code you submitted for this assignment that was written
+with significant help of a course staff member, or code used from the
+textbook.  Be specific about what methods or algorithms are involved,
+and what sections of the textbook are involved (if applicable): [you do
+not need to list any of the code that we wrote for the assignment,
+i.e., the contents of the starter files for the assignment]
+
+
+
+----------------------------------------------
+KNOWN BUGS or LIMITATIONS:
+
+Program will crash for very large numbers > 10^9
+
+----------------------------------------------
+ANY OTHER NOTES FOR THE GRADER:
+
+
+
+----------------------------------------------
+ANSWERS TO ASSIGNMENT README QUESTIONS (if applicable):
+1.
+P(TWO_HEADS) = 1/4
+P(ONE_HEAD_ONE_TAIL) = 1/2
+P(TWO_TAILS) = 1/4
+The outcomes are: 
+TT
+TH
+HT
+HH
+
+2.
+The number of trials required to consistently get within 1% of the above probabilities should have magnitude of at least 10^3.
+
+3.
+10^9 works but crashes when exceed 10^10
